@@ -9,4 +9,4 @@ lutfi-haslab/lutfi-haslab is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![mystack](blob:https://whimsical.com/2223c343-a435-4623-bb3a-4547d1eb5db1)
+![mystack](https://res.cloudinary.com/haslab/image/upload/v1664951093/my-stack_bt7uyw.png)
