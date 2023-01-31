@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lutfi-haslab a.k.a Lutfi Ikbal Majid
+- 👋 Hi, I’m @lutzfy.21 a.k.a Lutfi Ikbal Majid
 - 👀 I’m interested in Fullstack Developer, my area is WEB, MOBILE, and BLOCKCHAIN
 - 🌱 I’m currently learning Astro, and Ethereum Smart Contract
 - 💞️ I’m looking to collaborate on your project
