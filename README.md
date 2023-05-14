@@ -8,5 +8,3 @@
 lutfi-haslab/lutfi-haslab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![mystack](https://res.cloudinary.com/haslab/image/upload/v1664951093/my-stack_bt7uyw.png)
